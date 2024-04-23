@@ -172,7 +172,7 @@ fun Home(controleDeNavegacao: NavHostController) {
                             tint = Color(0xffA09C9C)
                         )
                     }
-                },
+                }
             )
 
             Text(
