@@ -84,6 +84,7 @@ fun SignUp(controleDeNavegacao: NavHostController) {
 
         }
 
+
     }
     Column(
         horizontalAlignment = Alignment.CenterHorizontally,
